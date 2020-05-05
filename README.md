@@ -1,2 +1,2 @@
 # chatbot_things
-Some usefull stuff for building retrieval-based chatbot
+Some useful stuff for building retrieval-based chatbot
