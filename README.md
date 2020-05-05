@@ -1,4 +1,4 @@
-# Data
+# Intents Detection and Slot Filling Data
    - [ATIS](https://github.com/yvchen/JointSLU)
    - [SNIPS](https://github.com/snipsco/nlu-benchmark/tree/master/2017-06-custom-intent-engines)
    - The [Facebook’s multilingual dataset](https://fb.me/multilingual_task_oriented_data) (English/Spanish/Thai)
