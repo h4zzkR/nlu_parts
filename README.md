@@ -5,6 +5,9 @@
    - [MIT_Restaurant_Movie_corpus](https://groups.csail.mit.edu/sls/downloads/) (w/o intent)
    - [E-commerce Shopping Assistant (ECSA) from Alibaba](https://github.com/pangolulu/DCMTL) (w/o intent, in Chinese)
    - [CoNLL-2003 NER](https://github.com/kamalkraj/BERT-NER/tree/dev/data) (w/o intent)
+   
+# Other data
+   - [MS MARCO](https://microsoft.github.io/msmarco/)
 
 # Useful links
    - [Slot-filling&IntentsDetection](https://github.com/sz128/slot_filling_and_intent_detection_of_SLU)
