@@ -13,3 +13,4 @@
    - [Slot-filling&IntentsDetection](https://github.com/sz128/slot_filling_and_intent_detection_of_SLU)
    - [NLP things](https://github.com/sz128)
    - [Yandex Alice](https://habr.com/ru/company/yandex/blog/349372/)
+   - [Snips custom tutorials](https://snips-nlu.readthedocs.io/en/latest/tutorial.html) - example of custom data organization
